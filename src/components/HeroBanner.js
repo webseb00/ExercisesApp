@@ -49,6 +49,7 @@ const HeroBanner = () => {
           display: { lg: 'block', xs: 'none' }
         }}
         fontSize="200px"
+        marginTop="60px"
       >Exercises</Typography>
       <img src={HeroImageBanner} alt="Banner" className="hero-banner-img" />
     </Box>
